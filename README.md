@@ -1,6 +1,6 @@
 # larv_datasets
 
-The datasets are used to conduct a series of trace-driven evaluations for our proposed learning-based framework, _Learning-based Automated Reconfiguration for vRANs (LARV)_. The detail experiment setups and how the datasets are collected and utilized can be found in the article:
+The datasets are used to conduct a series of trace-driven evaluations for our proposed learning-based framework, _Learning-based Automated Reconfiguration for vRANs (LARV)_. The detailed experiment setups and how the datasets are collected and utilized can be found in the article:
 
 _F. W. Murti, S. Ali, G. Iosifidis, M. Latva-aho, Deep Reinforcement Learning for Orchestrating Cost-aware Reconfigurations of vRANs, IEEE Transactions on Network & Service Management, 2023. (to appear)._
  
